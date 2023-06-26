@@ -1,0 +1,13 @@
+footer{
+    background-color: rgb(5, 48, 112);
+    color: white;
+}
+
+footer h1,h2{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+#autor{
+    background-color: rgb(235, 39, 202);
+}
